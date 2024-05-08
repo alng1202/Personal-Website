@@ -1,0 +1,21 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.image{
+  width: 50%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.image img{
+  height: 50%px;
+  width: 300px;
+  border-radius: 50%;
+  border: 10px solid #252d5d;
+}
